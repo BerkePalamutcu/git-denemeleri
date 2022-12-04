@@ -1,6 +1,4 @@
-yazi eklendi - branch1 - commit - 1
-<<<<<<< HEAD
-ikinci yazi eklendi
-=======
-ikinci yazi eklendi reset sonrasi ekleme yapildi
->>>>>>> 8791288 (soft resetlendi)
+son reset eklendi amend edildi
+soft edilmeden once yazi eklendi
+soft edilmeden once baska bir yazi daha eklendi
+baska bi yazi eklendi
